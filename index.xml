@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SuitClub</title>
+    <title>AI Health</title>
     <link>https://suitclub.ischool.utexas.edu/</link>
       <atom:link href="https://suitclub.ischool.utexas.edu/index.xml" rel="self" type="application/rss+xml" />
-    <description>SuitClub</description>
+    <description>AI Health</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://suitclub.ischool.utexas.edu/img/icon-192.png</url>
-      <title>SuitClub</title>
+      <title>AI Health</title>
       <link>https://suitclub.ischool.utexas.edu/</link>
     </image>
     
@@ -17,8 +17,7 @@
       <link>https://suitclub.ischool.utexas.edu/talk/can-policy-affect-initiation-of-addictive-substance-use/</link>
       <pubDate>Tue, 24 Sep 2019 15:00:00 +0000</pubDate>
       <guid>https://suitclub.ischool.utexas.edu/talk/can-policy-affect-initiation-of-addictive-substance-use/</guid>
-      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/pxBQLFLei70&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
