@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | AI Health</title><link>https://bsaha3.github.io/publication/</link><atom:link href="https://bsaha3.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 19:56:28 -0500</lastBuildDate><image><url>https://bsaha3.github.io/img/icon-192.png</url><title>Publications</title><link>https://bsaha3.github.io/publication/</link></image><item><title>Ai Health Data Challenge</title><link>https://bsaha3.github.io/publication/ai-health-data-challenge/</link><pubDate>Sun, 01 Dec 2019 19:56:28 -0500</pubDate><guid>https://bsaha3.github.io/publication/ai-health-data-challenge/</guid><description>&lt;p&gt;If you are up for the AI Health Data Challenge, read on for the details.&lt;br&gt;&lt;br&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | AI Health</title>
+    <link>https://bsaha3.github.io/publication/</link>
+      <atom:link href="https://bsaha3.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 19:56:28 -0500</lastBuildDate>
+    <image>
+      <url>https://bsaha3.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://bsaha3.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>AI Health Data Challenge</title>
+      <link>https://bsaha3.github.io/publication/ai-health-data-challenge/</link>
+      <pubDate>Sun, 01 Dec 2019 19:56:28 -0500</pubDate>
+      <guid>https://bsaha3.github.io/publication/ai-health-data-challenge/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://dellmed.utexas.edu/assets/logos/Dell_Medical_School_Logo.svg&#34; class=&#34;sponsorDellMed&#34; alt=&#34;Dell Medical School&#34;/&gt;
+&lt;img src=&#34;https://www.ischool.utexas.edu/sites/default/files/images/ischool_logo_0.png&#34; class=&#34;sponsorISchool&#34; alt=&#34;iSchool&#34;&gt;
+If you are up for the AI Health Data Challenge, read on for the details.&lt;br&gt;&lt;br&gt;
 It is our goal to foster collaboration among disciplines and promote data-driven, evidence-based care.
 We are looking for UT students from diverse backgrounds with skills in information science, computer
 science, and medical science, to leverage their collective knowledge as a team and create an app for
@@ -12,15 +33,14 @@ Course from MIT in order to get permission to download the dataset. This process
 so plan accordingly. Participants must agree to the MIMIC-III data use agreement. Please submit the
 completion report (not the certificate).&lt;br&gt;&lt;br&gt;&lt;br&gt;
 &lt;b&gt;How to submit the deliverables&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Please submit the following items before 11PM Central Time March 2
-nd
-, 2020 to XYZ email:&lt;br&gt;
+Please submit the following items before 11PM Central Time March 2nd
+, 2020 to ying.ding@ischool.utexas.edu:&lt;br&gt;
 ● A 2-5 page report on the details of how you built the app. This report should contain the link to
 your GitHub, the details of your methods, and screenshots of your app.&lt;br&gt;
 ● 5-minute video about your process.&lt;br&gt;&lt;br&gt;
 Finalists will be announced on April 2, 2020. They will present their apps to a panel of health care
 experts on May 1, 2020, who will choose the winner at the end of the day.&lt;br&gt;&lt;br&gt;
-To participate and connect with potential teammates, register by filling in this google form XYZ before
+To participate and connect with potential teammates, register by filling in this google form &lt;a href=&#34;https://forms.gle/P2V6yPUJvDNbz4zJA&#34; target=&#34;_blank&#34;&gt;https://forms.gle/P2V6yPUJvDNbz4zJA&lt;/a&gt; before
 Dec 1, 2019.&lt;br&gt;&lt;br&gt;&lt;br&gt;
 &lt;b&gt;How to win&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Your submission will be shortlisted by UT Austin faculty by March 22, 2020. The top teams will be invited
@@ -32,9 +52,15 @@ The judging criteria are:&lt;br&gt;
 ● Reproducibility&lt;br&gt;&lt;br&gt;&lt;br&gt;
 &lt;b&gt;What you’ll win&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 1st prize: $1500; 2nd prize: $500&lt;br&gt;
-The two winning submissions will be made available on the AI Health website.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+The two winning submissions will be made available on the AI Health website.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;b&gt;Deadlines&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-● Register at XYZ google form by December 1, 2019&lt;br&gt;
+● Register at &lt;a href=&#34;https://forms.gle/P2V6yPUJvDNbz4zJA&#34; target=&#34;_blank&#34;&gt;https://forms.gle/P2V6yPUJvDNbz4zJA&lt;/a&gt; by December 1, 2019&lt;br&gt;
 ● Final submission due by 11pm CST on March 2, 2020&lt;br&gt;
 ● Announcement of finalists: March 22, 2020&lt;br&gt;
-● Presentation and judging: April 3, 2020&lt;br&gt;&lt;/p&gt;</description></item></channel></rss>
+● Presentation and judging: April 3, 2020&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

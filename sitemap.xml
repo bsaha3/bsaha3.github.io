@@ -1,1 +1,113 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://bsaha3.github.io/authors/</loc><lastmod>2019-12-01T19:56:28-05:00</lastmod><priority>0</priority></url><url><loc>https://bsaha3.github.io/categories/</loc><lastmod>2019-12-01T19:56:28-05:00</lastmod><priority>0</priority></url><url><loc>https://bsaha3.github.io/tags/</loc><lastmod>2019-12-01T19:56:28-05:00</lastmod><priority>0</priority></url><url><loc>https://bsaha3.github.io/</loc><lastmod>2019-12-01T19:56:28-05:00</lastmod><priority>0</priority></url><url><loc>https://bsaha3.github.io/publication/ai-health-data-challenge/</loc><lastmod>2019-12-01T19:56:28-05:00</lastmod></url><url><loc>https://bsaha3.github.io/authors/</loc><lastmod>2019-12-01T19:56:28-05:00</lastmod><priority>0</priority></url><url><loc>https://bsaha3.github.io/categories/</loc><lastmod>2019-12-01T19:56:28-05:00</lastmod><priority>0</priority></url><url><loc>https://bsaha3.github.io/publication/</loc><lastmod>2019-12-01T19:56:28-05:00</lastmod></url><url><loc>https://bsaha3.github.io/tags/</loc><lastmod>2019-12-01T19:56:28-05:00</lastmod><priority>0</priority></url><url><loc>https://bsaha3.github.io/authors/kosalisimon/</loc><lastmod>2019-09-24T15:00:00+00:00</lastmod></url><url><loc>https://bsaha3.github.io/talk/can-policy-affect-initiation-of-addictive-substance-use/</loc><lastmod>2019-09-24T15:00:00+00:00</lastmod></url><url><loc>https://bsaha3.github.io/talk/</loc><lastmod>2019-09-24T15:00:00+00:00</lastmod></url><url><loc>https://bsaha3.github.io/project/ai-health-data-challenge/</loc><lastmod>2019-09-22T17:53:19-05:00</lastmod></url><url><loc>https://bsaha3.github.io/project/</loc><lastmod>2019-09-22T17:53:19-05:00</lastmod><priority>0</priority></url><url><loc>https://bsaha3.github.io/post/</loc><lastmod>2019-09-22T16:10:34-05:00</lastmod></url><url><loc>https://bsaha3.github.io/post/the-ai-health-data-challenge/</loc><lastmod>2019-09-22T16:10:34-05:00</lastmod></url><url><loc>https://bsaha3.github.io/authors/none/</loc><lastmod>2019-09-22T16:10:34-05:00</lastmod><priority>0</priority></url><url><loc>https://bsaha3.github.io/authors/admin/</loc></url><url><loc>https://bsaha3.github.io/project/my-project-name/</loc><priority>0</priority></url><url><loc>https://bsaha3.github.io/publication_types/</loc><priority>0</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bsaha3.github.io/tags/</loc>
+    <lastmod>2019-12-01T19:56:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/authors/</loc>
+    <lastmod>2019-12-01T19:56:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/categories/</loc>
+    <lastmod>2019-12-01T19:56:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/</loc>
+    <lastmod>2019-12-01T19:56:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/publication/ai-health-data-challenge/</loc>
+    <lastmod>2019-12-01T19:56:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/authors/</loc>
+    <lastmod>2019-12-01T19:56:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/categories/</loc>
+    <lastmod>2019-12-01T19:56:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/publication/</loc>
+    <lastmod>2019-12-01T19:56:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/tags/</loc>
+    <lastmod>2019-12-01T19:56:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/authors/kosalisimon/</loc>
+    <lastmod>2019-09-24T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/talk/can-policy-affect-initiation-of-addictive-substance-use/</loc>
+    <lastmod>2019-09-24T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/talk/</loc>
+    <lastmod>2019-09-24T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/project/ai-health-data-challenge/</loc>
+    <lastmod>2019-09-22T17:53:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/project/</loc>
+    <lastmod>2019-09-22T17:53:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/post/</loc>
+    <lastmod>2019-09-22T16:10:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/post/the-ai-health-data-challenge/</loc>
+    <lastmod>2019-09-22T16:10:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/authors/none/</loc>
+    <lastmod>2019-09-22T16:10:34-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/project/my-project-name/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsaha3.github.io/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
